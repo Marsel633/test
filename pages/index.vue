@@ -24,7 +24,7 @@
 }
 
 .frameWrapper {
-  width: 1120px;
+  width: 1220px;
   height: 280px;
   background-color: #fff;
   display: flex;
@@ -32,5 +32,7 @@
 }
 .frame {
   width: 100%;
+  display: flex;
+  justify-content: center;
 }
 </style>
